@@ -9,3 +9,11 @@
 -uppercased letters
 -lowercased letters
 *Following those choices, you will be given a randomly generated password! 
+
+*live link*
+https://bethtgreen.github.io/PasswordGen/
+
+
+*application screenshot* 
+
+![Alt text](./assets/screenshot1.png "passwordgen snapshot")
