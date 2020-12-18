@@ -16,4 +16,4 @@ https://bethtgreen.github.io/PasswordGen/
 
 *application screenshot* 
 
-![Alt text](./assets/screenshot1.png "passwordgen snapshot")
+![Alt text](./assets/screenshot1.png) "password gen snapshot"
